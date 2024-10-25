@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    color: darkblue;
+    font-size: 30px;
+    line-height: 1.6;
+}
